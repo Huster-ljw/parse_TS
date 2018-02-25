@@ -1,0 +1,1 @@
+本工程实现了TS流PAT、PMT、PES的解析，并可以根据相应的视频PID抽取出PES、ES数据。（音频PES、ES未做实现）
